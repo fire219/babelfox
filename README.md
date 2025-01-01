@@ -6,14 +6,19 @@
 
 ## Specifications
 **Form factor:** RPi compatible (85x56mm, with 58x49mm spaced mounting holes)
+
 **Main Processor:** Luckfox Pico (based on Rockchip RV1103)
+
 **LoRA Radio:** EByte E80-900 (based on Semtech LR1121)
+
 **900MHz Amplifier:** EByte E21-900 1W PA/LNA
+
 **Cell Radio:** SIMCom SIM7022
 
 **Max LoRA TX Power:** 30dBm @ 900MHz, 13dBm @ 2.4GHz
 
 **Power Source:** USB-C (5V only), 3.7V LiPo, 8-18V VDC
+
 **Power Consumption:** ~5W peak, <3W nominal
 
 
