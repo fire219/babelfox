@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EC-01G")(type "KiCad")(uri "${KIPRJMOD}/symbols/EC-01G.kicad_sym")(options "")(descr ""))
+  (lib (name "luckfox_pico")(type "KiCad")(uri "${KIPRJMOD}/symbols/luckfox_pico.kicad_sym")(options "")(descr ""))
+  (lib (name "ebyte_E80")(type "KiCad")(uri "${KIPRJMOD}/symbols/ebyte_E80.kicad_sym")(options "")(descr ""))
+  (lib (name "ebyte_E21")(type "KiCad")(uri "${KIPRJMOD}/symbols/ebyte_E21.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS631000")(type "KiCad")(uri "${KIPRJMOD}/symbols/TPS631000.kicad_sym")(options "")(descr ""))
+  (lib (name "NXB0104")(type "KiCad")(uri "${KIPRJMOD}/symbols/NXB0104.kicad_sym")(options "")(descr ""))
+  (lib (name "SIM7022")(type "KiCad")(uri "${KIPRJMOD}/symbols/SIM7022.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ2057")(type "KiCad")(uri "${KIPRJMOD}/symbols/BQ2057.kicad_sym")(options "")(descr ""))
+)
