@@ -1,4 +1,4 @@
-![BabelFox logo](logo/babelfox-text-sm.png)
+![BabelFox logo](logo/babelfox-text-sm-neutral.png)
 **NOTE: This project is not quite ready for prime time. Everything could be subject to change; build at your own risk. More documentation will come on full release.**
 
 ## What is this?
