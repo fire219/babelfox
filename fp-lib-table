@@ -11,4 +11,5 @@
   (lib (name "m_pwd")(type "KiCad")(uri "${KIPRJMOD}/footprints/m_pwd")(options "")(descr ""))
   (lib (name "SparkFun-Qwiic")(type "KiCad")(uri "${KIPRJMOD}/footprints/SparkFun-Qwiic.pretty")(options "")(descr ""))
   (lib (name "SMA-uFL jack")(type "KiCad")(uri "${KIPRJMOD}/footprints/SMA-uFL jack")(options "")(descr ""))
+  (lib (name "babelfox_logo")(type "KiCad")(uri "${KIPRJMOD}/footprints/babelfox_logo")(options "")(descr ""))
 )
