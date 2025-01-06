@@ -26,4 +26,4 @@
 
 ## License
 
-**Spearmintastic** is licensed under the CERN OHL v2 Permissive license. See the *LICENSE* file for more information.
+**BabelFox** is licensed under the CERN OHL v2 Strongly Reciprocal license. See the *LICENSE* file for more information.
