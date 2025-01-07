@@ -11242,6 +11242,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C4407"
+			(at 63.5 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f5ec470f-d718-445d-84a0-29cf23640290")
 		)
@@ -11710,6 +11719,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C585349"
+			(at 271.78 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "G4"
 			(uuid "bbfa317d-89de-40b9-bb86-6db275a5b78a")
 		)
@@ -11875,6 +11893,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C511853"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6bf8dafe-8c2d-416f-afe4-6ed635cfc72f")
 		)
@@ -11936,6 +11963,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 20.32 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 20.32 24.13 0)
 			(effects
 				(font
@@ -12138,6 +12174,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 15.24 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17513"
 			(at 15.24 90.17 0)
 			(effects
 				(font
@@ -12548,6 +12593,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2999620"
+			(at 63.5 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af19c174-fd05-4894-9f4a-31fafd6ef7b4")
 		)
@@ -12823,6 +12877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 15.24 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2080f525-d875-4148-bb4f-0248aa7b601e")
 		)
@@ -12883,6 +12946,15 @@
 		)
 		(property "Description" ""
 			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2866550"
+			(at 33.02 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13165,6 +13237,15 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 82.55 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C88373"
 			(at 82.55 133.35 0)
 			(effects
 				(font
@@ -13821,6 +13902,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5219190"
+			(at 44.45 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9b3bca26-969d-4692-b1e6-2d78c3600164")
 		)
@@ -13901,6 +13991,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 86.36 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 86.36 158.75 0)
 			(effects
 				(font
@@ -14503,6 +14602,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17470"
+			(at 87.63 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ddee5c9f-4d0c-4688-afea-613872f0c226")
 		)
@@ -14702,6 +14810,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 87.63 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25611"
 			(at 87.63 55.88 0)
 			(effects
 				(font
@@ -14915,6 +15032,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 232.41 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d80c6af-7951-4f8b-a704-7bb010ff21ba")
 		)
@@ -15050,6 +15176,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C44051"
+			(at 39.37 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54e54728-bdaf-45d8-aa3e-0d99f7d2d590")
 		)
@@ -15112,6 +15247,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 81.28 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17604"
 			(at 81.28 86.36 0)
 			(effects
 				(font
@@ -15190,6 +15334,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156920"
+			(at 41.91 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d4798cd-8f19-42d4-9d21-e16c31677ce8")
 		)
@@ -15251,6 +15404,15 @@
 		)
 		(property "Description" "PNP transistor, base/collector/emitter"
 			(at 60.96 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C141330"
+			(at 60.96 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15593,6 +15755,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 52.07 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae228392-d9e6-4643-a9ef-a2a40e5beed4")
 		)
@@ -15663,6 +15834,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 17.78 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab630049-bbf8-4f42-af59-ad2cbe476d31")
 		)
@@ -15722,6 +15902,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 64.77 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C511853"
 			(at 64.77 105.41 0)
 			(effects
 				(font
@@ -16223,6 +16412,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 57.15 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a7e63548-8d8e-450f-ac11-bef558dbc1ab")
 		)
@@ -16285,6 +16483,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 19.05 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 19.05 54.61 0)
 			(effects
 				(font
@@ -16421,6 +16628,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C141660"
 			(at 76.2 52.07 0)
 			(effects
 				(font
