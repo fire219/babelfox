@@ -58,7 +58,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_overlap|132232400|124843071|ac63a5d3-f8c9-4f59-b5f7-bcc16fade00e|4fce6ff5-f7b3-43b7-9839-f57a7dcdcd61",
+        "silk_overlap|148305828|121866500|64d09e9c-a172-42cd-b08d-acb077eb06f0|cb7aead7-8b2d-4a55-9899-b997c8812e26",
+        "silk_overlap|152907999|82196471|4ad09b40-e2db-4f05-8067-054ef15851b6|19c890ff-7c66-45d6-8fbd-364bae9c834d"
+      ],
       "meta": {
         "version": 2
       },
@@ -579,7 +583,7 @@
           "group_by": false,
           "label": "Notes",
           "name": "Notes",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",

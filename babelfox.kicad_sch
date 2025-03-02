@@ -12945,7 +12945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "30V"
+		(property "Notes" "30V, >2A, low Vdrop"
 			(at 64.77 100.33 0)
 			(effects
 				(font
@@ -13032,7 +13032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "25V, qty 5 if no battery circuit"
+		(property "Notes" "25V, qty 3 if no battery circuit"
 			(at 20.32 24.13 0)
 			(effects
 				(font
@@ -13681,7 +13681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "DNP if no battery circuit"
+		(property "Notes" "1% or better, DNP if no battery circuit"
 			(at 63.5 52.07 0)
 			(effects
 				(font
@@ -15185,7 +15185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "25V, qty 5 if no battery circuit"
+		(property "Notes" "25V, qty 3 if no battery circuit"
 			(at 82.55 158.75 0)
 			(effects
 				(font
@@ -15833,7 +15833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "DNP if no battery circuit"
+		(property "Notes" "1% or better, DNP if no battery circuit"
 			(at 87.63 48.26 0)
 			(effects
 				(font
@@ -16067,7 +16067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "DNP if no battery circuit"
+		(property "Notes" "1% or better, DNP if no battery circuit"
 			(at 87.63 55.88 0)
 			(effects
 				(font
@@ -16299,7 +16299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "25V, qty 5 if no battery circuit"
+		(property "Notes" "25V, qty 3 if no battery circuit"
 			(at 232.41 104.14 0)
 			(effects
 				(font
@@ -16452,7 +16452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "DNP if no battery circuit"
+		(property "Notes" "1% or better, DNP if no battery circuit"
 			(at 39.37 78.74 0)
 			(effects
 				(font
@@ -16628,7 +16628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "DNP if no battery circuit"
 			(at 41.91 97.79 0)
 			(effects
 				(font
@@ -16714,7 +16714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "DNP if no battery circuit"
+		(property "Notes" "1% or better, DNP if no battery circuit"
 			(at 60.96 81.28 0)
 			(effects
 				(font
@@ -17155,7 +17155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "25V, qty 5 if no battery circuit"
+		(property "Notes" "25V, qty 3 if no battery circuit"
 			(at 17.78 133.35 0)
 			(effects
 				(font
@@ -17240,7 +17240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "30V"
+		(property "Notes" "30V, >2A, low Vdrop"
 			(at 64.77 105.41 0)
 			(effects
 				(font
@@ -17760,7 +17760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "25V, qty 5 if no battery circuit"
+		(property "Notes" "25V, qty 3 if no battery circuit"
 			(at 57.15 24.13 0)
 			(effects
 				(font
@@ -17848,7 +17848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "25V, qty 5 if no battery circuit"
+		(property "Notes" "25V, qty 3 if no battery circuit"
 			(at 19.05 54.61 0)
 			(effects
 				(font
